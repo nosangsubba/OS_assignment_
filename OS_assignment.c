@@ -19,8 +19,8 @@ int main()
 			}
 		printf("\nProcess\t|Turnaround Time| Waiting Time\n");
 		RT[9]=9999;
-for(time=0;remain!=n;time++)
-	{
+		for(time=0;remain!=n;time++)
+		{
 		smallest=9;
 		for(i=0;i<n;i++)
 			{
